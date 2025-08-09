@@ -1,1 +1,0 @@
-/home/runner/work/basic-mpc/basic-mpc/target/debug/rust_mpc: /home/runner/work/basic-mpc/basic-mpc/src/main.rs /home/runner/work/basic-mpc/basic-mpc/src/p2p.rs /home/runner/work/basic-mpc/basic-mpc/src/party.rs /home/runner/work/basic-mpc/basic-mpc/src/secret_sharing.rs
